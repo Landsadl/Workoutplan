@@ -1,0 +1,11 @@
+{
+"back":["rows", "Lat Pulldown", "Rear Delt Flyes","Face Pulls", "Deadlift", "Pull-Ups"],
+"chest": ["Barbell Bench Press", "Hammer Press", "Chest Flyes", "Incline Bench Press","Push ups","Decline Bench Press","Dips","Cable Crossover"],
+"biceps": ["Hammer Curls", "E-Z Bar Curls", "Cable Machine Curls", "Dumbbell Curls", "Preacher Curls", "Single Arm Cable Curls"],
+"shoulders":["Shoulder Press", "Dumbbell Lateral Raises", "Plate Front Raises", "Rear Delt Flyes", "Barbell Military Press", "Dead Hangs"],
+"triceps": ["French Press", "Pushdowns","Single-Arm Kick-Backs", "Dips", "Cable Overhead Press", "SkullCrushers"],
+"abs": ["Bicycle Crunches", "Crunches", "Russian Twists", "Leg Raises", "Hanging Knee Raises", "Cable Crunch", "Plank","Side Planks"],
+"legs":["Back Squats", "Calf Raises", "Leg Presses","Front Squats","Lunges", "Leg Curls", "Leg Extensions","Romanian Deadlifts"]
+}
+
+
