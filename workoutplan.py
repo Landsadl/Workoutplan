@@ -46,3 +46,5 @@ while str(sets) not in how_many_sets:
 #Displaying appropriate number of sets
 print(selected_workout)
 print(how_many_sets[str(sets)])
+
+
